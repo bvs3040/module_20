@@ -221,7 +221,7 @@ h4 {
     display: flex;
     justify-content: space-between;
     position: relative;
-    top: -376px;
+    top: -545px;
     z-index: 1;
     max-width: 316px;
     margin: 0 auto;
@@ -270,7 +270,7 @@ h4 {
     max-width: 100%;
     margin-left: 0;
     position: relative;
-    top: -515px;
+    top: -683px;
 }
 
 .online-control {
@@ -495,7 +495,7 @@ hr {
     text-align: center;
 }
 
-.decortion__fix-container {
+.decoration .fix-container {
     display: block;
 }
 
